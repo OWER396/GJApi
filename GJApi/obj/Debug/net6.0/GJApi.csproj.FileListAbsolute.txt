@@ -1,0 +1,11 @@
+D:\Projects\GameJolt.API\GameJolt.API\bin\Debug\net6.0\GJApi.deps.json
+D:\Projects\GameJolt.API\GameJolt.API\bin\Debug\net6.0\GJApi.dll
+D:\Projects\GameJolt.API\GameJolt.API\bin\Debug\net6.0\GJApi.pdb
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.AssemblyInfoInputs.cache
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.AssemblyInfo.cs
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.csproj.CoreCompileInputs.cache
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.dll
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\refint\GJApi.dll
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\GJApi.pdb
+D:\Projects\GameJolt.API\GameJolt.API\obj\Debug\net6.0\ref\GJApi.dll
